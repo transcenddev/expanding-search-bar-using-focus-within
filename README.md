@@ -14,7 +14,6 @@ Demo: a centered card with a circular search control that expands when focused t
 - [Usage](#usage)
 - [Development](#development)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -82,7 +81,3 @@ Example markup (from `index.html`):
 ## Contributing
 
 Small changes (formatting, documentation) can be committed directly. For behavior, accessibility, or UX changes open a PR describing the change and any compatibility considerations.
-
-## License
-
-This project has no license file. Add one (e.g., `LICENSE` with MIT) if you want to allow reuse.
