@@ -30,11 +30,11 @@ Key files:
 
 You can preview the demo video bundled with the repo. Note: many markdown renderers and GitHub may block autoplay - a direct raw link is provided as a fallback.
 
-<video src="assets/expanding-search-bar-using-focus-within.mkv" controls autoplay muted loop playsinline width="640">
+<video src="assets/Expanding-Search-Bar-Using-Focus-Within.mp4" controls autoplay muted loop playsinline width="640" poster="assets/Expanding-Search-Bar-Using-Focus-Within.mp4">
   Your browser does not support the video tag.
 </video>
 
-- Raw / download: https://raw.githubusercontent.com/transcenddev/expanding-search-bar-using-focus-within/main/assets/expanding-search-bar-using-focus-within.mkv
+- Raw / download: https://raw.githubusercontent.com/transcenddev/expanding-search-bar-using-focus-within/main/assets/Expanding-Search-Bar-Using-Focus-Within.mp4
 
 Or open `index.html` directly in a browser.
 
