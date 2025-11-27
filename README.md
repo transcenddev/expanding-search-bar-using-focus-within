@@ -8,13 +8,13 @@ Demo: a centered card with a circular search control that expands when focused t
 
 ## Table of Contents
 
-- Description
-- Demo
-- Installation
-- Usage
-- Development
-- Contributing
-- License
+- [Description](#description)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Description
 
@@ -29,9 +29,13 @@ Key files:
 
 ## Demo
 
-You can preview the demo video bundled with the repo:
+You can preview the demo video bundled with the repo. Note: many markdown renderers and GitHub may block autoplay - a direct raw link is provided as a fallback.
 
-<video src="assets/expanding-search-bar-using-focus-within.mkv" controls loop muted width="640">Your browser does not support the video tag.</video>
+<video src="assets/expanding-search-bar-using-focus-within.mkv" controls autoplay muted loop playsinline width="640">
+  Your browser does not support the video tag.
+</video>
+
+- Raw / download: https://raw.githubusercontent.com/transcenddev/expanding-search-bar-using-focus-within/main/assets/expanding-search-bar-using-focus-within.mkv
 
 Or open `index.html` directly in a browser.
 
